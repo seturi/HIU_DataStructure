@@ -1,0 +1,7 @@
+/hw0
+*.tex
+*.pdf
+*.aux
+*.synctex.gz
+*.log
+makefile
